@@ -1,5 +1,5 @@
 const debug = process.env.NODE_ENV !== "production";
-const repository = "nextcalender";
+const repository = "https://webhohyun.github.io/nextcalender";
 
 const nextConfig = {
   reactStrictMode: true,
